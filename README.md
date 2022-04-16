@@ -4,9 +4,8 @@
 ## pronouns: He/Him
 
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li> 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
+    <li> 🔭 Now I am studying smart chain metamask</li>
     <li> 🌱 Learning Game development</li>
     <li> 💬 Ask me about javascript/typescript development</li>
     <li> ⚡ Fun fact: Capoeira is my favorite game</li>
