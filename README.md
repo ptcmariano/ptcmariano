@@ -5,8 +5,8 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li> 🔭 Now I am studying smart chain metamask</li>
-    <li> 🌱 Learning Game development</li>
+    <li> 🔭 Now I am studying chatbots and AI</li>
+    <li> 🌱 Learning methods</li>
     <li> 💬 Ask me about javascript/typescript development</li>
     <li> ⚡ Fun fact: Capoeira is my favorite game</li>
   </div>
